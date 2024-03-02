@@ -7,3 +7,5 @@ To test just:
 1) Download the repositorie
 2) In CMD navigate to main file using cd FILES/astrostatistics
 3) Use command "node index.js"
+
+It's necessary request the xml file via email or whatsapp
